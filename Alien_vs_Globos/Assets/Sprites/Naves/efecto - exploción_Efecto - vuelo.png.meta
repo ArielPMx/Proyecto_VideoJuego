@@ -1,0 +1,348 @@
+fileFormatVersion: 2
+guid: 0c28b9be39c1b024b87d4b11f592d3ed
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -87142550085135376
+    second: "efecto - exploci\xF3n_Efecto - vuelo_0"
+  - first:
+      213: -1142168019263890603
+    second: "efecto - exploci\xF3n_Efecto - vuelo_1"
+  - first:
+      213: -2987049850482640946
+    second: "efecto - exploci\xF3n_Efecto - vuelo_2"
+  - first:
+      213: 5381530821160117684
+    second: "efecto - exploci\xF3n_Efecto - vuelo_3"
+  - first:
+      213: -985690215890392256
+    second: "efecto - exploci\xF3n_Efecto - vuelo_5"
+  - first:
+      213: 2077765049142256191
+    second: "efecto - exploci\xF3n_Efecto - vuelo_6"
+  - first:
+      213: 3317771802584522004
+    second: "efecto - exploci\xF3n_Efecto - vuelo_7"
+  - first:
+      213: -986390531863147330
+    second: "efecto - exploci\xF3n_Efecto - vuelo_8"
+  - first:
+      213: -6679655923300117801
+    second: "efecto - exploci\xF3n_Efecto - vuelo_10"
+  - first:
+      213: 4315049890643356196
+    second: "efecto - exploci\xF3n_Efecto - vuelo_12"
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 275
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "efecto - exploci\xF3n_Efecto - vuelo_0"
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 1758
+        width: 1209
+        height: 496
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f39a59ff486acef0800000000000000
+      internalID: -87142550085135376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "efecto - exploci\xF3n_Efecto - vuelo_1"
+      rect:
+        serializedVersion: 2
+        x: 1466
+        y: 1754
+        width: 1209
+        height: 531
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55bd6f9ec343620f0800000000000000
+      internalID: -1142168019263890603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "efecto - exploci\xF3n_Efecto - vuelo_2"
+      rect:
+        serializedVersion: 2
+        x: 2755
+        y: 1710
+        width: 1209
+        height: 598
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec7399facfddb86d0800000000000000
+      internalID: -2987049850482640946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "efecto - exploci\xF3n_Efecto - vuelo_3"
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 806
+        width: 1194
+        height: 821
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b5a01fe4c90faa40800000000000000
+      internalID: 5381530821160117684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "efecto - exploci\xF3n_Efecto - vuelo_5"
+      rect:
+        serializedVersion: 2
+        x: 1648
+        y: 812
+        width: 851
+        height: 766
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04b664798ff1252f0800000000000000
+      internalID: -985690215890392256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "efecto - exploci\xF3n_Efecto - vuelo_6"
+      rect:
+        serializedVersion: 2
+        x: 2771
+        y: 822
+        width: 867
+        height: 736
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f32a8d0cd44b5dc10800000000000000
+      internalID: 2077765049142256191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "efecto - exploci\xF3n_Efecto - vuelo_7"
+      rect:
+        serializedVersion: 2
+        x: 2450
+        y: 1078
+        width: 63
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41d9bda40e71b0e20800000000000000
+      internalID: 3317771802584522004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "efecto - exploci\xF3n_Efecto - vuelo_8"
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 99
+        width: 730
+        height: 644
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebc0d729903af42f0800000000000000
+      internalID: -986390531863147330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "efecto - exploci\xF3n_Efecto - vuelo_10"
+      rect:
+        serializedVersion: 2
+        x: 1661
+        y: 120
+        width: 723
+        height: 633
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d2dcddf3581d43a0800000000000000
+      internalID: -6679655923300117801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "efecto - exploci\xF3n_Efecto - vuelo_12"
+      rect:
+        serializedVersion: 2
+        x: 2892
+        y: 100
+        width: 681
+        height: 638
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42aa2ef630322eb30800000000000000
+      internalID: 4315049890643356196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
